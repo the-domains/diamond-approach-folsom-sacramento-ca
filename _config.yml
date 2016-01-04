@@ -1,7 +1,7 @@
 name: Diamond Approach - Folsom - Sacramento - CA
 favicon: null
-layout_spectrum: 0.1916329578962177
-typography_spectrum: 0.7011302663013339
+layout_spectrum: 1
+typography_spectrum: 0.5068
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7306352634914219
-  lightness: 0.8391892246436328
-  saturation: 0.6791264354251325
-  rhythmicContrast: 0.8471922578755766
+    - '#242424'
+    - '#d29229'
+    - '#cecece'
+    - '#ffffff'
+    - '#7c7c7c'
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
